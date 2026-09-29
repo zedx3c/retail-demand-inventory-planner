@@ -1,8 +1,7 @@
-# retail-demand-inventory-planner
-Retail sales forecasting and inventory planning project
+
 # Retail Demand Forecasting
 
-A time-series forecasting project that predicts daily sales for different items across 10 stores.
+A time-series project that predicts daily sales across 10 stores and 50 items.
 
 ## Project goal
 
